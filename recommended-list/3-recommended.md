@@ -1,14 +1,13 @@
-Other useful plugins:
+Plugins that aren't as important to KZ gameplay, but are nice to have:
 
-- MyRanks for GOKZ](https://github.com/walliski/myranks-for-gokz
+- [MyRanks for GOKZ](https://github.com/walliski/myranks-for-gokz)
 An attempt to bring Local ranks into GOKZ.
 
-- Dynamic Timelimit for GOKZ](https://github.com/walliski/dyntim-for-gokz and https://github.com/walliski/random-sm
+- [Dynamic Timelimit for GOKZ](https://github.com/walliski/dyntim-for-gokz) and [Random-SM](https://github.com/walliski/random-sm)
 A small and simple plugin that will read the average map completion time for a map from the local DB, and then try to calculate a more sensible timelimit based on that. Random-SM includes timeleft announcer for this plugin as well.
 
-- TrueStrike](https://github.com/zer0k-z/TrueStrike
+- [TrueStrike](https://github.com/zer0k-z/TrueStrike)
 Toggle ammo, recoil, inaccuracy and spread for CS:GO.
-Plugins that aren't as important to KZ gameplay, but are nice to have:
 
 - [Distbugfix](https://bitbucket.org/GameChaos/distbug):
 Gives you more details on your jumpstats as well as stats on failed jumps (failstats).
