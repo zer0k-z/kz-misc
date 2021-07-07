@@ -12,7 +12,7 @@ Very recommended server plugins and extensions:
 
 - [GOKZ Scoreboard](https://github.com/DevRuto/GOKZ-Scoreboard-Timer): Plugin showing time in Kills, checkpoints in Assists, and teleports in Deaths column in the CSGO scoreboard
 
-- [More-Stats](https://github.com/zer0k-z/more-stats): Plugin to display statistics about various KZ actions.
+- [More Stats](https://github.com/zer0k-z/more-stats): Plugin to display statistics about various KZ actions.
 
 - [GOKZ Bot Model Fix](https://github.com/zer0k-z/gokz-botmodelfix): Temporary fix for GOKZ bots' broken animation using unnecessarily complicated code.
 
