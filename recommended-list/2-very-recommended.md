@@ -8,7 +8,7 @@ Very recommended server plugins and extensions:
 
 - [CSGO Particle Auto-Precacher](https://bitbucket.org/zer0k_z/csgo-particle-auto-precacher): Precaches particle systems in the same manner as the per-map manifest system in older Source titles, now works with workshop maps. 
 
-- [GlobalPB](https://github.com/szwagi/globalpb / https://github.com/DevDaveid/globalpb): SourceMod plugin that lets GOKZ or KZTimer players request their personal best times from the Global API.
+- [GlobalPB](https://github.com/szwagi/globalpb) or this [DevDaveid's fork](https://github.com/DevDaveid/globalpb): SourceMod plugin that lets GOKZ or KZTimer players request their personal best times from the Global API.
 
 - [GOKZ Scoreboard](https://github.com/DevRuto/GOKZ-Scoreboard-Timer): Plugin showing time in Kills, checkpoints in Assists, and teleports in Deaths column in the CSGO scoreboard
 
