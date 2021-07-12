@@ -1,0 +1,81 @@
+Last updated: 2021-07-12
+Total PRO WR count: 338
+
+2018: None, last WR was kz_cg_brick_rmk by 8bO (beaten by LLNuke)
+
+2019 (1):
+- kz_haki_v2: Flux, 9:10.008
+
+2020 (70): Sorted from oldest to newest
+- kz_woodworld
+- xc_dtt_nasty_go
+- kz_castlehops_v2
+- kz_quickshot
+- kz_canyon
+- kz_exoteric
+- kz_ea_beneath_go
+- kz_man_everest_go_fix
+- kz_excavate_b
+- kz_cliffhanger_go_global
+- kz_11735
+- kz_cratespeed
+- kz_tomb_fix
+- kz_phamous
+- kz_ext_bblocks
+- kz_void
+- kz_betterdunjun
+- kz_kzra_whitesquare
+- kz_prolific
+- kz_complex
+- kz_plains
+- kz_piranha
+- bkz_lewlysex
+- kz_dakow
+- kz_glide
+- kz_ghat
+- kz_emblem_bonus
+- kz_caulis_v2
+- kz_antigeneric
+- kz_tradeblock_go
+- kz_owtetad
+- kz_boomblock
+- kz_kzra_shortclimb_v2
+- kz_lego_two_redux_v3
+- kz_blocks2006
+- kz_paintball_tv_fix
+- kz_genesis_go2
+- kz_delphinium
+- kz_twiivo
+- kz_beginnerblock_go
+- kz_edp445
+- kz_kohze_sucks
+- bkz_caves_go
+- kz_comp_global
+- kz_brightblock
+- kz_huber
+- kz_cdr_myst
+- kz_8b1_brickngrass
+- kz_colorcode
+- kz_serenity
+- kz_intercourse!
+- kz_jump_n_run
+- kz_chrysoprase
+- kz_arrebol
+- xc_cliffjump_fix
+- kz_micropenis
+- kz_mac
+- kz_ancient_v3
+- kz_pharos_fix
+- kz_blindcity_easy_fix
+- kz_quadrablock
+- kz_minimalism
+- kz_j2s_tetris_go
+- kz_sandyhill_hoc
+- kz_kzro_brickstgrass_v2
+- kz_splopkopsc_loverick
+- kz_cartooncastle_go
+- kz_emblem
+- bkz_goldbhop_csgo
+- kz_littlerock_v2
+
+

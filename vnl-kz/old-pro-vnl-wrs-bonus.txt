@@ -1,0 +1,41 @@
+Last updated: 2021-07-12
+Total PRO BWR count: 102
+
+Pre-2020: None
+
+2020 (35): 
+- 2020-02-09T02:30:34 kz_combobreaker B2
+- 2020-02-09T21:34:56 kz_sqrdsucks B1 
+- 2020-02-24T12:53:54 kz_high_socks B3
+- 2020-04-07T20:30:41 kz_civilizations B2
+- 2020-05-01T16:18:35 kz_high_socks B4
+- 2020-05-30T10:27:31 kz_high_socks B5
+- 2020-07-05T20:11:34 kz_thinkblock B1
+- 2020-07-06T02:17:46 kz_gc_shark B2
+- 2020-07-18T16:02:12 kz_erratum_v2 B2
+- 2020-08-14T05:58:26 kz_nassau B2
+- 2020-08-24T02:39:18 kz_rectangle B1
+- 2020-08-29T23:15:35 kz_theaquila B1
+- 2020-09-07T20:32:21 kz_owtetad B1
+- 2020-09-13T17:45:11 kz_babycat_fix B1
+- 2020-09-18T04:38:23 kz_gc_shark B5
+- 2020-09-20T04:31:22 xc_fox_shrine_japan_fr B2
+- 2020-10-18T05:15:27 kz_owtetad B3
+- 2020-10-27T21:13:34 kz_gc_shark B4
+- 2020-11-03T18:38:03 kz_rectangle B3
+- 2020-11-08T00:31:18 skz_map B2
+- 2020-11-08T11:04:59 kz_rush2sk8 B10
+- 2020-11-12T16:54:46 kz_memento B1
+- 2020-11-21T07:06:43 kz_rompenutrias_asheglado B3
+- 2020-11-24T13:02:33 kz_avalon B1
+- 2020-11-26T21:21:06 kz_rush2sk8 B9
+- 2020-11-27T08:31:59 kz_gc_shark B3
+- 2020-11-28T13:26:38 kz_sky_lake B1
+- 2020-11-28T15:40:10 kz_memento B2
+- 2020-11-30T03:04:32 kz_chrysoprase B2
+- 2020-12-06T03:08:30 kz_symmetry B1
+- 2020-12-11T14:22:15 kz_ladderall B4
+- 2020-12-22T16:41:08 skz_map B1
+- 2020-12-25T20:34:39 kz_sqrdsucks B2
+- 2020-12-25T21:23:13 kz_sqrdsucks B3
+- 2020-12-30T16:18:17 kz_nassau B1
