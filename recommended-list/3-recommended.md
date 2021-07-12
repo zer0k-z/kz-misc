@@ -1,16 +1,12 @@
 Plugins that aren't as important to KZ gameplay, but are nice to have:
 
-- [MyRanks for GOKZ](https://github.com/walliski/myranks-for-gokz)
-An attempt to bring Local ranks into GOKZ.
+- [MyRanks for GOKZ](https://github.com/walliski/myranks-for-gokz): An attempt to bring Local ranks into GOKZ.
 
-- [Dynamic Timelimit for GOKZ](https://github.com/walliski/dyntim-for-gokz) and [Random-SM](https://github.com/walliski/random-sm)
-A small and simple plugin that will read the average map completion time for a map from the local DB, and then try to calculate a more sensible timelimit based on that. Random-SM includes timeleft announcer for this plugin as well.
+- [Dynamic Timelimit for GOKZ](https://github.com/walliski/dyntim-for-gokz) and [Random-SM](https://github.com/walliski/random-sm): A small and simple plugin that will read the average map completion time for a map from the local DB, and then try to calculate a more sensible timelimit based on that. Random-SM includes timeleft announcer for this plugin as well.
 
-- [TrueStrike](https://github.com/zer0k-z/TrueStrike)
-Toggle ammo, recoil, inaccuracy and spread for CS:GO.
+- [TrueStrike](https://github.com/zer0k-z/TrueStrike): Toggle ammo, recoil, inaccuracy and spread for CS:GO.
 
-- [Distbugfix](https://bitbucket.org/GameChaos/distbug):
-Gives you more details on your jumpstats as well as stats on failed jumps (failstats).
+- [Distbugfix](https://bitbucket.org/GameChaos/distbug): Gives you more details on your jumpstats as well as stats on failed jumps (failstats).
 
 - [KZTierMapchooser](https://github.com/Kidev/KZTierMapchooser): This is a modification of SourceMod's mapchooser, adding the tiers of maps in the vote menu
 
