@@ -14,5 +14,3 @@ Very recommended server plugins and extensions:
 
 - [More Stats](https://github.com/zer0k-z/more-stats): Plugin to display statistics about various KZ actions.
 
-- [GOKZ Bot Model Fix](https://github.com/zer0k-z/gokz-botmodelfix): Temporary fix for GOKZ bots' broken animation using unnecessarily complicated code.
-

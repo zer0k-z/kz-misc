@@ -9,3 +9,7 @@ Stuff that don't always belong in the server:
 - [gokz-replays-speedtotext](https://bitbucket.org/zer0k_z/gokz-replays-speedtotext): Records bot speed and takeoff speed while playing a replay, then extracts it to `speed.txt` for video editors.
 
 - bot_ws (Link needed): Add custom knife and pistols to bots. For video editors and LAN servers only, as this can invalidate your GSLT token too.
+
+- [CMRSuppressor](https://github.com/zer0k-z/CMRSuppressor): Surpress CMultiplayRules constructor messages in console
+
+- [tickrate_enabler_csgo](https://github.com/zer0k-z/tickrate_enabler_csgo): A tickrate enabler for CS:GO
