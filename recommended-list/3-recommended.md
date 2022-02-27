@@ -26,3 +26,7 @@ Plugins that aren't as important to KZ gameplay, but are nice to have:
 - [Player Model Changer](https://bitbucket.org/GameChaos/player-model-changer): A playermodel changer plugin.
 
 - [GOKZ-Discord](https://github.com/zer0k-z/gokz-discord): An optional module for GOKZ that posts records to a Discord channel using webhooks.
+
+- [ShowPos](https://github.com/zer0k-z/gokz-discord): Server-sided workaround for cl_showpos being cheat protected.
+
+- [ShowClipBrushes](https://github.com/GAMMACASE/ShowPlayerClips): Shows player clip brushes on maps.
